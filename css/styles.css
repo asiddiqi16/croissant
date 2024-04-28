@@ -1,0 +1,19 @@
+body {
+  background-color: rgba(52, 197, 197, 0.3);
+}
+h1 {
+  color: rgb(255, 0, 179);
+}
+
+a {
+  padding: 10px;
+  background-color: bisque;
+  margin: 20px;
+  text-decoration: none;
+}
+img {
+  margin: 10px;
+}
+footer {
+  margin-top: 100px;
+}
